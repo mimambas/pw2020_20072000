@@ -28,20 +28,20 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>pw2020_043040023/tubes_043040023.sql at master · sandhikagalih/pw2020_043040023</title>
-    <meta name="description" content="Repo untuk Kuliah Pemrograman Web 2020. Contribute to sandhikagalih/pw2020_043040023 development by creating an account on GitHub.">
+  <title>pw2020_20072000/pw_20072000.sql at master · sandhikagalih/pw2020_20072000</title>
+    <meta name="description" content="Repo untuk Kuliah Pemrograman Web 2020. Contribute to sandhikagalih/pw2020_20072000 development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
-    <meta name="twitter:image:src" content="https://avatars1.githubusercontent.com/u/2681894?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="sandhikagalih/pw2020_043040023" /><meta name="twitter:description" content="Repo untuk Kuliah Pemrograman Web 2020. Contribute to sandhikagalih/pw2020_043040023 development by creating an account on GitHub." />
-    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/2681894?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="sandhikagalih/pw2020_043040023" /><meta property="og:url" content="https://github.com/sandhikagalih/pw2020_043040023" /><meta property="og:description" content="Repo untuk Kuliah Pemrograman Web 2020. Contribute to sandhikagalih/pw2020_043040023 development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://avatars1.githubusercontent.com/u/2681894?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="sandhikagalih/pw2020_20072000" /><meta name="twitter:description" content="Repo untuk Kuliah Pemrograman Web 2020. Contribute to sandhikagalih/pw2020_20072000 development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/2681894?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="sandhikagalih/pw2020_20072000" /><meta property="og:url" content="https://github.com/sandhikagalih/pw2020_20072000" /><meta property="og:description" content="Repo untuk Kuliah Pemrograman Web 2020. Contribute to sandhikagalih/pw2020_20072000 development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTQzOTgwMTEyOmMyYWYwYTcwMTZkOTc1MzQzNjIzN2I2MjRjYTExODgxZTcyNmFmODU3NzE2YjFkYmEyZTY1NTg5MzNmNjEzODM=--9eda6c2e8f947d18f43e272cd45509f3f2fe19b0">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTQzOTgwMTEyOmQ3ZGViZWU4MzI0YTVkYmNmZTAyYTJhNjI2MGU1YTJiOGNlNmJlZTExOTBiYzA4OWViNThjYjgzMmEwY2NlNGM=--e7654a5cc2ba43bc0034e5f8e94b52c341813b75">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="C75A:41BE:613A0B:89054E:5EDCF242" data-pjax-transient="true" /><meta name="html-safe-nonce" content="641c9fe2092e2f8f8405f14b2d35b01fb833c345" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zYW5kaGlrYWdhbGloL3B3MjAyMF8wNDMwNDAwMjMvdHJlZS9tYXN0ZXIva3VsaWFoL3BlcnRlbXVhbjkiLCJyZXF1ZXN0X2lkIjoiQzc1QTo0MUJFOjYxM0EwQjo4OTA1NEU6NUVEQ0YyNDIiLCJ2aXNpdG9yX2lkIjoiMzAwMTU1NzgyNTA0NzEwODk1NiIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGhlYXN0LTEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="827007c8909ce27de0fadf2b9a04db41ce0990532fa7d1d385a85394badd95f5" data-pjax-transient="true" />
+  <meta name="request-id" content="C758:41BE:61376C:890187:5EDCF236" data-pjax-transient="true" /><meta name="html-safe-nonce" content="641c9fe2092e2f8f8405f14b2d35b01fb833c345" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zYW5kaGlrYWdhbGloL3B3MjAyMF8wNDMwNDAwMjMvdHJlZS9tYXN0ZXIva3VsaWFoL3BlcnRlbXVhbjkiLCJyZXF1ZXN0X2lkIjoiQzc1ODo0MUJFOjYxMzc2Qzo4OTAxODc6NUVEQ0YyMzYiLCJ2aXNpdG9yX2lkIjoiMzAwMTU1NzgyNTA0NzEwODk1NiIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGhlYXN0LTEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="6f1c3390aeffe5f4d7cd46759feb2c003cad34d55411cef693c2a05703011249" data-pjax-transient="true" />
 
 
 
@@ -78,21 +78,21 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MGVmNTc2MGQ1MDdmOWQ3MTQ5MDJiNTIwNmQzOWI1YTUwNzVkMDQ0YWVhZDc0NzY0OGVhZWUxN2JkMDZiNWRiOXx7InJlbW90ZV9hZGRyZXNzIjoiMTExLjk1LjIxMy4yNDQiLCJyZXF1ZXN0X2lkIjoiQzc1QTo0MUJFOjYxM0EwQjo4OTA1NEU6NUVEQ0YyNDIiLCJ0aW1lc3RhbXAiOjE1OTE1MzgyNDIsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="YzBlYWUyYWMwZGE1N2E3OWFhZWYyMjQxMDNhNDAyNzBlY2RhOThhMmQ0YjkzNTc1MzBlNzFkZGQwMTVjOWMxZHx7InJlbW90ZV9hZGRyZXNzIjoiMTExLjk1LjIxMy4yNDQiLCJyZXF1ZXN0X2lkIjoiQzc1ODo0MUJFOjYxMzc2Qzo4OTAxODc6NUVEQ0YyMzYiLCJ0aW1lc3RhbXAiOjE1OTE1MzgyMzAsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,PAGE_STALE_CHECK,JS_CHUNKING">
 
   <meta http-equiv="x-pjax-version" content="2427884fafeb5e02c2dfe9ab2f4f9f4c">
   
 
-      <link href="https://github.com/sandhikagalih/pw2020_043040023/commits/master.atom" rel="alternate" title="Recent Commits to pw2020_043040023:master" type="application/atom+xml">
+      <link href="https://github.com/sandhikagalih/pw2020_20072000/commits/master.atom" rel="alternate" title="Recent Commits to pw2020_20072000:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/sandhikagalih/pw2020_043040023 git https://github.com/sandhikagalih/pw2020_043040023.git">
+  <meta name="go-import" content="github.com/sandhikagalih/pw2020_20072000 git https://github.com/sandhikagalih/pw2020_20072000.git">
 
-  <meta name="octolytics-dimension-user_id" content="2681894" /><meta name="octolytics-dimension-user_login" content="sandhikagalih" /><meta name="octolytics-dimension-repository_id" content="254308611" /><meta name="octolytics-dimension-repository_nwo" content="sandhikagalih/pw2020_043040023" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="254308611" /><meta name="octolytics-dimension-repository_network_root_nwo" content="sandhikagalih/pw2020_043040023" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="2681894" /><meta name="octolytics-dimension-user_login" content="sandhikagalih" /><meta name="octolytics-dimension-repository_id" content="254308611" /><meta name="octolytics-dimension-repository_nwo" content="sandhikagalih/pw2020_20072000" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="254308611" /><meta name="octolytics-dimension-repository_network_root_nwo" content="sandhikagalih/pw2020_20072000" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/sandhikagalih/pw2020_043040023/blob/master/kuliah/pertemuan9/tubes_043040023.sql" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/sandhikagalih/pw2020_20072000/blob/master/kuliah/pertemuan9/pw_20072000.sql" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -150,7 +150,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="254308611" data-scoped-search-url="/sandhikagalih/pw2020_043040023/search" data-unscoped-search-url="/search" action="/sandhikagalih/pw2020_043040023/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="254308611" data-scoped-search-url="/sandhikagalih/pw2020_20072000/search" data-unscoped-search-url="/search" action="/sandhikagalih/pw2020_20072000/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -168,7 +168,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="9kx30fkizr6XRpXaODQPr4/v4Kq4BUvg2uRphQmrw8/BvBYSCRnkD8rQ0oCTqRoBuJVr4bkm1pj8cU8fzMIr7w==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="SY+tPHjS9YZiI8vHQhEDhfY6uxZVLxN7RYmDcEP5xHd+f8z/iOnfNz+1jJ3pjBYrwUAwXVQMjgNjHKXqhpAsVw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -319,7 +319,7 @@
       <img class="avatar avatar-user" src="https://avatars2.githubusercontent.com/u/57307621?s=40&amp;v=4" width="20" height="20" alt="@mimambas" />
       mimambas
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UtIWEYB5+svJXdXsiaz7fbBiZsRVmHFMoi8ZBF74b/EV/k8ZiMuWdnPr9XHn2a6uGWdiHJhKjpDC51lIrxZx5A==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Cma38DAKzNmmjJstyzYbe6QYK4G1bM/EEVM95tIdyQNNSu74OLigZBw6u7ClQ06oDR0vWXi+MBhxm32qI/PXFg==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-3 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M2 2.75C2 1.7835 2.7835 1 3.75 1H6.25C6.66421 1 7 1.33579 7 1.75C7 2.16421 6.66421 2.5 6.25 2.5H3.75C3.61193 2.5 3.5 2.61193 3.5 2.75V13.25C3.5 13.3881 3.61193 13.5 3.75 13.5H6.25C6.66421 13.5 7 13.8358 7 14.25C7 14.6642 6.66421 15 6.25 15H3.75C2.7835 15 2 14.2165 2 13.25V2.75ZM12.4393 7.25L6.75002 7.25C6.33581 7.25 6.00002 7.58579 6.00002 8C6.00002 8.41422 6.33581 8.75 6.75002 8.75L12.4393 8.75L10.4697 10.7197C10.1768 11.0126 10.1768 11.4874 10.4697 11.7803C10.7626 12.0732 11.2374 12.0732 11.5303 11.7803L14.7803 8.53033C15.0732 8.23744 15.0732 7.76256 14.7803 7.46967L11.5303 4.21967C11.2374 3.92678 10.7626 3.92678 10.4697 4.21967C10.1768 4.51256 10.1768 4.98744 10.4697 5.28033L12.4393 7.25Z"></path></svg>
         Sign out
@@ -333,7 +333,7 @@
                 <svg class="octicon octicon-repo" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M2 2.5C2 1.83696 2.26339 1.20107 2.73223 0.732233C3.20108 0.263392 3.83696 0 4.5 0L13.25 0C13.4489 0 13.6397 0.0790176 13.7803 0.21967C13.921 0.360322 14 0.551088 14 0.75V13.25C14 13.4489 13.921 13.6397 13.7803 13.7803C13.6397 13.921 13.4489 14 13.25 14H10.75C10.5511 14 10.3603 13.921 10.2197 13.7803C10.079 13.6397 10 13.4489 10 13.25C10 13.0511 10.079 12.8603 10.2197 12.7197C10.3603 12.579 10.5511 12.5 10.75 12.5H12.5V10.5H4.5C4.30308 10.5 4.11056 10.5582 3.94657 10.6672C3.78257 10.7762 3.65442 10.9312 3.57816 11.1128C3.50191 11.2943 3.48096 11.4943 3.51793 11.6878C3.5549 11.8812 3.64816 12.0594 3.786 12.2C3.92524 12.3422 4.0023 12.5338 4.00024 12.7328C3.99818 12.9318 3.91716 13.1218 3.775 13.261C3.63285 13.4002 3.4412 13.4773 3.24222 13.4752C3.04325 13.4732 2.85324 13.3922 2.714 13.25C2.25571 12.7829 1.99929 12.1544 2 11.5V2.5ZM12.5 1.5V9H4.5C4.144 9 3.806 9.074 3.5 9.208V2.5C3.5 2.23478 3.60536 1.98043 3.79289 1.79289C3.98043 1.60536 4.23478 1.5 4.5 1.5H12.5ZM5 12.25V15.5C5 15.5464 5.01293 15.5919 5.03734 15.6314C5.06175 15.6709 5.09667 15.7028 5.1382 15.7236C5.17972 15.7444 5.22621 15.7532 5.27245 15.749C5.31869 15.7448 5.36286 15.7279 5.4 15.7L6.85 14.613C6.89328 14.5805 6.94591 14.563 7 14.563C7.05409 14.563 7.10673 14.5805 7.15 14.613L8.6 15.7C8.63714 15.7279 8.68131 15.7448 8.72755 15.749C8.77379 15.7532 8.82028 15.7444 8.8618 15.7236C8.90333 15.7028 8.93826 15.6709 8.96266 15.6314C8.98707 15.5919 9 15.5464 9 15.5V12.25C9 12.1837 8.97366 12.1201 8.92678 12.0732C8.87989 12.0263 8.81631 12 8.75 12H5.25C5.1837 12 5.12011 12.0263 5.07322 12.0732C5.02634 12.1201 5 12.1837 5 12.25Z"></path></svg>
     <a class="Header-link" href="/sandhikagalih">sandhikagalih</a>
     /
-    <a class="Header-link" href="/sandhikagalih/pw2020_043040023">pw2020_043040023</a>
+    <a class="Header-link" href="/sandhikagalih/pw2020_20072000">pw2020_20072000</a>
 
 </div>
   </div>
@@ -376,9 +376,9 @@
 
   <div role="none" class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="sandhikagalih/pw2020_043040023">This repository</span>
+    <span title="sandhikagalih/pw2020_20072000">This repository</span>
   </div>
-    <a role="menuitem" class="dropdown-item" href="/sandhikagalih/pw2020_043040023/issues/new/choose" data-ga-click="Header, create new issue" data-skip-pjax>
+    <a role="menuitem" class="dropdown-item" href="/sandhikagalih/pw2020_20072000/issues/new/choose" data-ga-click="Header, create new issue" data-skip-pjax>
       New issue
     </a>
 
@@ -417,7 +417,7 @@
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:2681894,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:57307621,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_043040023/blob/master/kuliah/pertemuan9/tubes_043040023.sql&quot;}}" data-hydro-click-hmac="82afa0b72c27df50c0ab1d03ea6ae64d266fd3e17bd4b2b465bec9632a8cc480">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:2681894,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:57307621,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_20072000/blob/master/kuliah/pertemuan9/pw_20072000.sql&quot;}}" data-hydro-click-hmac="c09e12c67efa08445a857e2a7f81275c7d825ce3303c79365260874ef0a5bea0">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -444,7 +444,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="Nwr3NXwuC+Ojp6p13lXlnH2Z5kRwpIIpJbgtAL8SwZaCfx+w47XeZsw2ZbP+OQZ8v8UEllPUJR4HFj+JVJXhrA==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="nQNAhsikU1Yl1WcvyQZoR3Q96M8hYinfJNi8IjLeiZ4odqgDVz+G00pEqOnpaountmEKHQISjugGdq6r2VmppA==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M3.72 3.72C3.86062 3.57955 4.05125 3.50066 4.25 3.50066C4.44875 3.50066 4.63937 3.57955 4.78 3.72L8 6.94L11.22 3.72C11.2887 3.64631 11.3715 3.58721 11.4635 3.54622C11.5555 3.50523 11.6548 3.48319 11.7555 3.48141C11.8562 3.47963 11.9562 3.49816 12.0496 3.53588C12.143 3.5736 12.2278 3.62974 12.299 3.70096C12.3703 3.77218 12.4264 3.85702 12.4641 3.9504C12.5018 4.04379 12.5204 4.14382 12.5186 4.24452C12.5168 4.34523 12.4948 4.44454 12.4538 4.53654C12.4128 4.62854 12.3537 4.71134 12.28 4.78L9.06 8L12.28 11.22C12.3537 11.2887 12.4128 11.3715 12.4538 11.4635C12.4948 11.5555 12.5168 11.6548 12.5186 11.7555C12.5204 11.8562 12.5018 11.9562 12.4641 12.0496C12.4264 12.143 12.3703 12.2278 12.299 12.299C12.2278 12.3703 12.143 12.4264 12.0496 12.4641C11.9562 12.5018 11.8562 12.5204 11.7555 12.5186C11.6548 12.5168 11.5555 12.4948 11.4635 12.4538C11.3715 12.4128 11.2887 12.3537 11.22 12.28L8 9.06L4.78 12.28C4.63782 12.4125 4.44977 12.4846 4.25547 12.4812C4.06117 12.4777 3.87579 12.399 3.73837 12.2616C3.60096 12.1242 3.52225 11.9388 3.51882 11.7445C3.51539 11.5502 3.58752 11.3622 3.72 11.22L6.94 8L3.72 4.78C3.57955 4.63938 3.50066 4.44875 3.50066 4.25C3.50066 4.05125 3.57955 3.86063 3.72 3.72Z"></path></svg>
@@ -562,17 +562,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-06-07T21:27:22+07:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-06-07T21:27:10+07:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-06-07T21:57:22+07:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-06-07T21:57:10+07:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-06-08T00:57:22+07:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-06-08T00:57:10+07:00">
             in 4 hours
           </button>
         </li>
@@ -631,10 +631,10 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/mimambas/feature_previews"
-    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_043040023/blob/master/kuliah/pertemuan9/tubes_043040023.sql&quot;,&quot;user_id&quot;:57307621}}"
-    data-feature-preview-close-hmac="82cc1cea865d5e5a01314cf6a61385d705cb6a8c5ba7efc5803727e5eb3c415e"
-    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_043040023/blob/master/kuliah/pertemuan9/tubes_043040023.sql&quot;,&quot;user_id&quot;:57307621}}"
-    data-hydro-click-hmac="f77c84a1816029f176aee0ebf1b6e30d0ef242634ef8fd17dcc1725a18bc50ef"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_20072000/blob/master/kuliah/pertemuan9/pw_20072000.sql&quot;,&quot;user_id&quot;:57307621}}"
+    data-feature-preview-close-hmac="ea75e006b28e7073211a6f611d52da0e098625bf36b0ec5a60b275a6c47afdd1"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_20072000/blob/master/kuliah/pertemuan9/pw_20072000.sql&quot;,&quot;user_id&quot;:57307621}}"
+    data-hydro-click-hmac="5d12860c0c63a7c8eef7138b8d1575c48c72c92199e420f95447fd96240297e6"
   >
     Feature preview
   </button>
@@ -643,12 +643,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yJXRmqWnZCTrmk1Ts8xbLRXofEYLFzUQh5T378q9QcaPuYiSrRUImVEsbc7duQ7+vO14nsbFysznXLejO1Nf0w==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VdjBbftX1qWtMvAHE2jxIIHicniSrZh83DOmlMeZ/aoS9Jhl8+W6GBeE0Jp9HaTzKOd2oF9/Z6C8++bYNnfjvw==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_8ea8" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1591538242776" class="form-control" /><input type="hidden" name="timestamp_secret" value="94593095f229cf912e90aca58b17eda98f3e339877e26d3876584917b3600328" class="form-control" />
+      <input type="text" name="required_field_f947" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1591538230896" class="form-control" /><input type="hidden" name="timestamp_secret" value="906d7a3e331ea2040e14fa929404788d7b125f3fba4c19f7eb0fc01726894b74" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -705,10 +705,10 @@
       <p class="shelf-lead">
           Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
       </p>
-      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:254308611,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_043040023/blob/master/kuliah/pertemuan9/tubes_043040023.sql&quot;,&quot;user_id&quot;:57307621}}" data-hydro-click-hmac="435b2818ee4b9a1ebcfd7892bbe00a82575a65f42f25f5014af3031639d69de6" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
+      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:254308611,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_20072000/blob/master/kuliah/pertemuan9/pw_20072000.sql&quot;,&quot;user_id&quot;:57307621}}" data-hydro-click-hmac="956ae6ed23f6389b662efddbf4b97bc9b553b468db1f5e09967898f0d7f556d0" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="rtETIaeaqFy2UeO1yEFHuZ/pVGMfRS2jPptuIMExKEL7x/LkOUuXs6jU8oRcxzas/BusOHe7o3oxhvnbWT81+Q==" />
-      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:254308611,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_043040023/blob/master/kuliah/pertemuan9/tubes_043040023.sql&quot;,&quot;user_id&quot;:57307621}}" data-hydro-click-hmac="8038db0b6fe58b58520c0621360ed430ab1ce0351a4f78219f12962823ff4f12">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="05Cmf2N76HAP2OFpxcXmJMltaMrK7eYALQG5efHAPgWGhke6/arXnxFd8FhRQ5cxqp+QkaITaNkiHC6Cac4jvg==" />
+      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:254308611,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_20072000/blob/master/kuliah/pertemuan9/pw_20072000.sql&quot;,&quot;user_id&quot;:57307621}}" data-hydro-click-hmac="677d8b71e4af048080b9b06392cd9975936a49864fd31caff021ab0eccd9f88f">
         <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 16 16" version="1.1" width="16" height="16" role="img"><path fill-rule="evenodd" clip-rule="evenodd" d="M3.72 3.72C3.86062 3.57955 4.05125 3.50066 4.25 3.50066C4.44875 3.50066 4.63937 3.57955 4.78 3.72L8 6.94L11.22 3.72C11.2887 3.64631 11.3715 3.58721 11.4635 3.54622C11.5555 3.50523 11.6548 3.48319 11.7555 3.48141C11.8562 3.47963 11.9562 3.49816 12.0496 3.53588C12.143 3.5736 12.2278 3.62974 12.299 3.70096C12.3703 3.77218 12.4264 3.85702 12.4641 3.9504C12.5018 4.04379 12.5204 4.14382 12.5186 4.24452C12.5168 4.34523 12.4948 4.44454 12.4538 4.53654C12.4128 4.62854 12.3537 4.71134 12.28 4.78L9.06 8L12.28 11.22C12.3537 11.2887 12.4128 11.3715 12.4538 11.4635C12.4948 11.5555 12.5168 11.6548 12.5186 11.7555C12.5204 11.8562 12.5018 11.9562 12.4641 12.0496C12.4264 12.143 12.3703 12.2278 12.299 12.299C12.2278 12.3703 12.143 12.4264 12.0496 12.4641C11.9562 12.5018 11.8562 12.5204 11.7555 12.5186C11.6548 12.5168 11.5555 12.4948 11.4635 12.4538C11.3715 12.4128 11.2887 12.3537 11.22 12.28L8 9.06L4.78 12.28C4.63782 12.4125 4.44977 12.4846 4.25547 12.4812C4.06117 12.4777 3.87579 12.399 3.73837 12.2616C3.60096 12.1242 3.52225 11.9388 3.51882 11.7445C3.51539 11.5502 3.58752 11.3622 3.72 11.22L6.94 8L3.72 4.78C3.57955 4.63938 3.50066 4.44875 3.50066 4.25C3.50066 4.05125 3.57955 3.86063 3.72 3.72Z"></path></svg>
 </button></form>  </div>
 </div>
@@ -737,7 +737,7 @@
   </span>
   <span class="path-divider flex-self-stretch">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#js-repo-pjax-container" href="/sandhikagalih/pw2020_043040023">pw2020_043040023</a>
+    <a data-pjax="#js-repo-pjax-container" href="/sandhikagalih/pw2020_20072000">pw2020_20072000</a>
   </strong>
   
 </h1>
@@ -752,10 +752,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OoQnPh3htkNEqNS7ZzFz2iXgDALuIhBzWhhNXBmNVNOI08i8+k38Mt5H+t0DIix0A7BDAhv1fn9bl4jsoOBp1Q==" />      <input type="hidden" name="repository_id" value="254308611">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="amSSQqRtlc5KW/Xc5OFyev7LnEi5Wg+qCZTjy/AT9vPYM33AQ8Hfv9C027qA8i3U2JvTSEyNYaYIGyZ7SX7L9Q==" />      <input type="hidden" name="repository_id" value="254308611">
 
       <details class="details-reset details-overlay select-menu float-left" >
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:254308611,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_043040023/blob/master/kuliah/pertemuan9/tubes_043040023.sql&quot;,&quot;user_id&quot;:57307621}}" data-hydro-click-hmac="ddf7d730a3b0df7cfcc410d77b240be9f80ad5ccab6f12fc31b914c84b58268a" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:254308611,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_20072000/blob/master/kuliah/pertemuan9/pw_20072000.sql&quot;,&quot;user_id&quot;:57307621}}" data-hydro-click-hmac="2870b6120a26c4635dae5fe249c371ad31bfbf15636058d058615d876fa2db12" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.67884 7.93165C2.09143 7.31094 2.9206 6.18152 4.0447 5.21477C5.17567 4.2421 6.52738 3.5 8.00001 3.5C9.47264 3.5 10.8244 4.2421 11.9553 5.21477C13.0794 6.18152 13.9086 7.31094 14.3212 7.93165C14.35 7.975 14.35 8.025 14.3212 8.06835C13.9086 8.68906 13.0794 9.81848 11.9553 10.7852C10.8244 11.7579 9.47264 12.5 8.00001 12.5C6.52738 12.5 5.17567 11.7579 4.0447 10.7852C2.9206 9.81848 2.09143 8.68906 1.67884 8.06835C1.65002 8.025 1.65002 7.975 1.67884 7.93165ZM8.00001 2C6.01865 2 4.32919 2.99167 3.06662 4.07751C1.79718 5.16926 0.880454 6.42307 0.429635 7.10129C0.0664231 7.64771 0.0664245 8.35229 0.429635 8.89871C0.880455 9.57693 1.79718 10.8307 3.06662 11.9225C4.32919 13.0083 6.01865 14 8.00001 14C9.98137 14 11.6708 13.0083 12.9334 11.9225C14.2028 10.8307 15.1196 9.57693 15.5704 8.89871C15.9336 8.35229 15.9336 7.64771 15.5704 7.10129C15.1196 6.42307 14.2028 5.16926 12.9334 4.07751C11.6708 2.99167 9.98137 2 8.00001 2ZM8 10C9.10457 10 10 9.10457 10 8C10 6.89543 9.10457 6 8 6C6.89543 6 6 6.89543 6 8C6 9.10457 6.89543 10 8 10Z"></path></svg>
               Watch
           </span>
@@ -825,7 +825,7 @@
         </details-menu>
       </details>
         <a class="social-count js-social-count"
-          href="/sandhikagalih/pw2020_043040023/watchers"
+          href="/sandhikagalih/pw2020_20072000/watchers"
           aria-label="1 user is watching this repository">
           1
         </a>
@@ -834,22 +834,22 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/sandhikagalih/pw2020_043040023/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TqtGAkDS7eORSsDarlg7GxjLwyE/zKjZvKoGVhrSu6JgathJDPI1W8DddkizVIGt9KpSaNSKYsut2aTmx1Moyw==" />
+    <form class="starred js-social-form" action="/sandhikagalih/pw2020_20072000/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="s3OX3pj0Jj1Uty2omtGbV/6iA4WZKewguP2saAwiHSedsgmV1NT+hQUgmzqH3SHhEsOSzHJvJjKpjg7Y0aOOTg==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar sandhikagalih/pw2020_043040023" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:254308611,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_043040023/blob/master/kuliah/pertemuan9/tubes_043040023.sql&quot;,&quot;user_id&quot;:57307621}}" data-hydro-click-hmac="9d2c385631add88a7ac2fa8488b64055f89881ce231744fb815d28950efd9811" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star-fill" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 0.25C8.14001 0.24991 8.27725 0.289014 8.39619 0.362887C8.51513 0.43676 8.61102 0.542452 8.673 0.668L10.555 4.483L14.765 5.095C14.9035 5.11511 15.0335 5.17355 15.1405 5.26372C15.2475 5.35388 15.3271 5.47218 15.3704 5.60523C15.4137 5.73829 15.4189 5.8808 15.3854 6.01665C15.3519 6.1525 15.2811 6.27628 15.181 6.374L12.135 9.344L12.854 13.536C12.8777 13.6739 12.8624 13.8157 12.8097 13.9454C12.757 14.0751 12.6691 14.1874 12.5559 14.2697C12.4427 14.352 12.3087 14.401 12.1691 14.4111C12.0295 14.4212 11.8899 14.3921 11.766 14.327L8 12.347L4.234 14.327C4.11018 14.392 3.97066 14.4211 3.83119 14.411C3.69171 14.4009 3.55784 14.352 3.44468 14.2699C3.33152 14.1877 3.24359 14.0755 3.19081 13.946C3.13803 13.8165 3.12251 13.6749 3.146 13.537L3.866 9.343L0.817997 6.374C0.717563 6.27632 0.646496 6.15247 0.612848 6.01647C0.579201 5.88047 0.584318 5.73777 0.627621 5.60453C0.670924 5.47129 0.75068 5.35284 0.857852 5.26261C0.965025 5.17238 1.09533 5.11397 1.234 5.094L5.444 4.483L7.327 0.668C7.38898 0.542452 7.48486 0.43676 7.6038 0.362887C7.72274 0.289014 7.85998 0.24991 8 0.25Z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar sandhikagalih/pw2020_20072000" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:254308611,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_20072000/blob/master/kuliah/pertemuan9/pw_20072000.sql&quot;,&quot;user_id&quot;:57307621}}" data-hydro-click-hmac="05d30d67c9a473dd6aeaad73d61f66343b910a36e107faac085d065846d17f10" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star-fill" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 0.25C8.14001 0.24991 8.27725 0.289014 8.39619 0.362887C8.51513 0.43676 8.61102 0.542452 8.673 0.668L10.555 4.483L14.765 5.095C14.9035 5.11511 15.0335 5.17355 15.1405 5.26372C15.2475 5.35388 15.3271 5.47218 15.3704 5.60523C15.4137 5.73829 15.4189 5.8808 15.3854 6.01665C15.3519 6.1525 15.2811 6.27628 15.181 6.374L12.135 9.344L12.854 13.536C12.8777 13.6739 12.8624 13.8157 12.8097 13.9454C12.757 14.0751 12.6691 14.1874 12.5559 14.2697C12.4427 14.352 12.3087 14.401 12.1691 14.4111C12.0295 14.4212 11.8899 14.3921 11.766 14.327L8 12.347L4.234 14.327C4.11018 14.392 3.97066 14.4211 3.83119 14.411C3.69171 14.4009 3.55784 14.352 3.44468 14.2699C3.33152 14.1877 3.24359 14.0755 3.19081 13.946C3.13803 13.8165 3.12251 13.6749 3.146 13.537L3.866 9.343L0.817997 6.374C0.717563 6.27632 0.646496 6.15247 0.612848 6.01647C0.579201 5.88047 0.584318 5.73777 0.627621 5.60453C0.670924 5.47129 0.75068 5.35284 0.857852 5.26261C0.965025 5.17238 1.09533 5.11397 1.234 5.094L5.444 4.483L7.327 0.668C7.38898 0.542452 7.48486 0.43676 7.6038 0.362887C7.72274 0.289014 7.85998 0.24991 8 0.25Z"></path></svg>
 
         Unstar
-</button>        <a class="social-count js-social-count" href="/sandhikagalih/pw2020_043040023/stargazers"
+</button>        <a class="social-count js-social-count" href="/sandhikagalih/pw2020_20072000/stargazers"
            aria-label="10 users starred this repository">
            10
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/sandhikagalih/pw2020_043040023/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GamAwItmC4uMo3AGPy0KoYJlZnCtrnlaZMmuVr0g4NDFyrPciiYRrlPm7QxRS3/W3cJOQeSgu/AbFkpJqGQ49A==" />
+    <form class="unstarred js-social-form" action="/sandhikagalih/pw2020_20072000/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="R2++rZdGSW7Ck67DzhY6G9y9mQsZfMj7lnrT46ckjxmbDI2xlgZTSx3WM8mgcE9sgxqxOlByClHppTf8smBXPQ==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star sandhikagalih/pw2020_043040023" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:254308611,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_043040023/blob/master/kuliah/pertemuan9/tubes_043040023.sql&quot;,&quot;user_id&quot;:57307621}}" data-hydro-click-hmac="e5f86bf60f4532b943eda9dbdd72de1eb09002689d9bc5a08a8a49d802c5589f" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M8.00001 0.25C8.14003 0.24991 8.27727 0.289014 8.39621 0.362887C8.51515 0.43676 8.61103 0.542452 8.67301 0.668L10.555 4.483L14.765 5.095C14.9035 5.11511 15.0336 5.17355 15.1405 5.26372C15.2475 5.35388 15.3272 5.47218 15.3704 5.60523C15.4137 5.73829 15.4189 5.8808 15.3854 6.01665C15.352 6.1525 15.2812 6.27628 15.181 6.374L12.135 9.344L12.854 13.536C12.8777 13.6739 12.8624 13.8157 12.8097 13.9454C12.757 14.0751 12.6691 14.1874 12.5559 14.2697C12.4427 14.352 12.3087 14.401 12.1691 14.4111C12.0295 14.4212 11.8899 14.3921 11.766 14.327L8.00001 12.347L4.23401 14.327C4.1102 14.392 3.97068 14.4211 3.8312 14.411C3.69173 14.4009 3.55785 14.352 3.44469 14.2699C3.33154 14.1877 3.2436 14.0755 3.19083 13.946C3.13805 13.8165 3.12252 13.6749 3.14601 13.537L3.86601 9.343L0.818012 6.374C0.717578 6.27632 0.646511 6.15247 0.612864 6.01647C0.579216 5.88047 0.584334 5.73777 0.627636 5.60453C0.670939 5.47129 0.750695 5.35284 0.857868 5.26261C0.96504 5.17238 1.09534 5.11397 1.23401 5.094L5.44401 4.483L7.32701 0.668C7.38899 0.542452 7.48488 0.43676 7.60382 0.362887C7.72276 0.289014 7.86 0.24991 8.00001 0.25ZM8.00001 2.695L6.61501 5.5C6.56123 5.6089 6.4818 5.70311 6.38356 5.77453C6.28531 5.84595 6.17119 5.89244 6.05101 5.91L2.95401 6.36L5.19401 8.544C5.28116 8.62886 5.34637 8.73365 5.384 8.84933C5.42163 8.96501 5.43056 9.0881 5.41001 9.208L4.88201 12.292L7.65101 10.836C7.75864 10.7794 7.87842 10.7499 8.00001 10.7499C8.12161 10.7499 8.24138 10.7794 8.34901 10.836L11.119 12.292L10.589 9.208C10.5685 9.0881 10.5774 8.96501 10.615 8.84933C10.6527 8.73365 10.7179 8.62886 10.805 8.544L13.045 6.361L9.94901 5.911C9.82883 5.89344 9.71471 5.84695 9.61647 5.77553C9.51822 5.70411 9.4388 5.6099 9.38501 5.501L8.00001 2.694V2.695Z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star sandhikagalih/pw2020_20072000" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:254308611,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_20072000/blob/master/kuliah/pertemuan9/pw_20072000.sql&quot;,&quot;user_id&quot;:57307621}}" data-hydro-click-hmac="871e028fb1435bcf4a8541d1fbb89250af0bc197e3c5d8ebca8e9142d1b5b502" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M8.00001 0.25C8.14003 0.24991 8.27727 0.289014 8.39621 0.362887C8.51515 0.43676 8.61103 0.542452 8.67301 0.668L10.555 4.483L14.765 5.095C14.9035 5.11511 15.0336 5.17355 15.1405 5.26372C15.2475 5.35388 15.3272 5.47218 15.3704 5.60523C15.4137 5.73829 15.4189 5.8808 15.3854 6.01665C15.352 6.1525 15.2812 6.27628 15.181 6.374L12.135 9.344L12.854 13.536C12.8777 13.6739 12.8624 13.8157 12.8097 13.9454C12.757 14.0751 12.6691 14.1874 12.5559 14.2697C12.4427 14.352 12.3087 14.401 12.1691 14.4111C12.0295 14.4212 11.8899 14.3921 11.766 14.327L8.00001 12.347L4.23401 14.327C4.1102 14.392 3.97068 14.4211 3.8312 14.411C3.69173 14.4009 3.55785 14.352 3.44469 14.2699C3.33154 14.1877 3.2436 14.0755 3.19083 13.946C3.13805 13.8165 3.12252 13.6749 3.14601 13.537L3.86601 9.343L0.818012 6.374C0.717578 6.27632 0.646511 6.15247 0.612864 6.01647C0.579216 5.88047 0.584334 5.73777 0.627636 5.60453C0.670939 5.47129 0.750695 5.35284 0.857868 5.26261C0.96504 5.17238 1.09534 5.11397 1.23401 5.094L5.44401 4.483L7.32701 0.668C7.38899 0.542452 7.48488 0.43676 7.60382 0.362887C7.72276 0.289014 7.86 0.24991 8.00001 0.25ZM8.00001 2.695L6.61501 5.5C6.56123 5.6089 6.4818 5.70311 6.38356 5.77453C6.28531 5.84595 6.17119 5.89244 6.05101 5.91L2.95401 6.36L5.19401 8.544C5.28116 8.62886 5.34637 8.73365 5.384 8.84933C5.42163 8.96501 5.43056 9.0881 5.41001 9.208L4.88201 12.292L7.65101 10.836C7.75864 10.7794 7.87842 10.7499 8.00001 10.7499C8.12161 10.7499 8.24138 10.7794 8.34901 10.836L11.119 12.292L10.589 9.208C10.5685 9.0881 10.5774 8.96501 10.615 8.84933C10.6527 8.73365 10.7179 8.62886 10.805 8.544L13.045 6.361L9.94901 5.911C9.82883 5.89344 9.71471 5.84695 9.61647 5.77553C9.51822 5.70411 9.4388 5.6099 9.38501 5.501L8.00001 2.694V2.695Z"></path></svg>
 
         Star
-</button>        <a class="social-count js-social-count" href="/sandhikagalih/pw2020_043040023/stargazers"
+</button>        <a class="social-count js-social-count" href="/sandhikagalih/pw2020_20072000/stargazers"
            aria-label="10 users starred this repository">
           10
         </a>
@@ -858,11 +858,11 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/sandhikagalih/pw2020_043040023/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="etoearhhn+T6QRfWeXDi4aCMEPft6Owrp6SuumhyRLrd2q7vsQrH7K0m8pL+/pwhrgJiZLpcquNSgHShPkDZ+w==" />
-            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:254308611,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_043040023/blob/master/kuliah/pertemuan9/tubes_043040023.sql&quot;,&quot;user_id&quot;:57307621}}" data-hydro-click-hmac="68f749825bee9768fe7bb581f80cb6bfcc629b8b3270f59efd945a226c034cc9" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of sandhikagalih/pw2020_043040023 to your account" aria-label="Fork your own copy of sandhikagalih/pw2020_043040023 to your account">              <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M5 3.25001C5 3.44892 4.92099 3.63969 4.78033 3.78034C4.63968 3.92099 4.44892 4.00001 4.25 4.00001C4.05109 4.00001 3.86033 3.92099 3.71967 3.78034C3.57902 3.63969 3.5 3.44892 3.5 3.25001C3.5 3.05109 3.57902 2.86033 3.71967 2.71968C3.86033 2.57902 4.05109 2.50001 4.25 2.50001C4.44892 2.50001 4.63968 2.57902 4.78033 2.71968C4.92099 2.86033 5 3.05109 5 3.25001ZM5 5.37201C5.50042 5.19509 5.92217 4.84696 6.19073 4.38915C6.45929 3.93134 6.55735 3.39333 6.4676 2.87021C6.37785 2.34709 6.10605 1.87253 5.70025 1.53043C5.29445 1.18832 4.78077 1.00069 4.25 1.00069C3.71924 1.00069 3.20556 1.18832 2.79976 1.53043C2.39396 1.87253 2.12216 2.34709 2.03241 2.87021C1.94265 3.39333 2.04072 3.93134 2.30928 4.38915C2.57784 4.84696 2.99959 5.19509 3.5 5.37201V6.25001C3.5 6.84674 3.73706 7.41904 4.15901 7.841C4.58097 8.26295 5.15327 8.50001 5.75 8.50001H7.25V10.628C6.74932 10.8049 6.3273 11.1532 6.05855 11.6112C5.78981 12.0692 5.69164 12.6075 5.78139 13.1309C5.87115 13.6543 6.14306 14.1291 6.54905 14.4714C6.95504 14.8136 7.46897 15.0014 8 15.0014C8.53104 15.0014 9.04497 14.8136 9.45096 14.4714C9.85695 14.1291 10.1289 13.6543 10.2186 13.1309C10.3084 12.6075 10.2102 12.0692 9.94146 11.6112C9.67271 11.1532 9.25069 10.8049 8.75 10.628V8.50001H10.25C10.8467 8.50001 11.419 8.26295 11.841 7.841C12.263 7.41904 12.5 6.84674 12.5 6.25001V5.37201C13.0004 5.19509 13.4222 4.84696 13.6907 4.38915C13.9593 3.93134 14.0574 3.39333 13.9676 2.87021C13.8778 2.34709 13.6061 1.87253 13.2002 1.53043C12.7944 1.18832 12.2808 1.00069 11.75 1.00069C11.2192 1.00069 10.7056 1.18832 10.2998 1.53043C9.89396 1.87253 9.62216 2.34709 9.53241 2.87021C9.44265 3.39333 9.54072 3.93134 9.80928 4.38915C10.0778 4.84696 10.4996 5.19509 11 5.37201V6.25001C11 6.44892 10.921 6.63969 10.7803 6.78034C10.6397 6.92099 10.4489 7.00001 10.25 7.00001H5.75C5.55109 7.00001 5.36033 6.92099 5.21967 6.78034C5.07902 6.63969 5 6.44892 5 6.25001V5.37201ZM8.75 12.75C8.75 12.9489 8.67099 13.1397 8.53033 13.2803C8.38968 13.421 8.19892 13.5 8 13.5C7.80109 13.5 7.61033 13.421 7.46967 13.2803C7.32902 13.1397 7.25 12.9489 7.25 12.75C7.25 12.5511 7.32902 12.3603 7.46967 12.2197C7.61033 12.079 7.80109 12 8 12C8.19892 12 8.38968 12.079 8.53033 12.2197C8.67099 12.3603 8.75 12.5511 8.75 12.75ZM11.75 4.00001C11.9489 4.00001 12.1397 3.92099 12.2803 3.78034C12.421 3.63969 12.5 3.44892 12.5 3.25001C12.5 3.05109 12.421 2.86033 12.2803 2.71968C12.1397 2.57902 11.9489 2.50001 11.75 2.50001C11.5511 2.50001 11.3603 2.57902 11.2197 2.71968C11.079 2.86033 11 3.05109 11 3.25001C11 3.44892 11.079 3.63969 11.2197 3.78034C11.3603 3.92099 11.5511 4.00001 11.75 4.00001Z"></path></svg>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/sandhikagalih/pw2020_20072000/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0+zV58f1RDdXllzkKf/02CXsx3n7byl/BcdLEWzbESx07GVizp4cPwDxuaCucYoYK2K16qzbb7fw45EKOumMbQ==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:254308611,&quot;originating_url&quot;:&quot;https://github.com/sandhikagalih/pw2020_20072000/blob/master/kuliah/pertemuan9/pw_20072000.sql&quot;,&quot;user_id&quot;:57307621}}" data-hydro-click-hmac="b21c0bf91abf3829aa945d61530ba3110d49562cb3646b70dec6dbdf57da2945" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of sandhikagalih/pw2020_20072000 to your account" aria-label="Fork your own copy of sandhikagalih/pw2020_20072000 to your account">              <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M5 3.25001C5 3.44892 4.92099 3.63969 4.78033 3.78034C4.63968 3.92099 4.44892 4.00001 4.25 4.00001C4.05109 4.00001 3.86033 3.92099 3.71967 3.78034C3.57902 3.63969 3.5 3.44892 3.5 3.25001C3.5 3.05109 3.57902 2.86033 3.71967 2.71968C3.86033 2.57902 4.05109 2.50001 4.25 2.50001C4.44892 2.50001 4.63968 2.57902 4.78033 2.71968C4.92099 2.86033 5 3.05109 5 3.25001ZM5 5.37201C5.50042 5.19509 5.92217 4.84696 6.19073 4.38915C6.45929 3.93134 6.55735 3.39333 6.4676 2.87021C6.37785 2.34709 6.10605 1.87253 5.70025 1.53043C5.29445 1.18832 4.78077 1.00069 4.25 1.00069C3.71924 1.00069 3.20556 1.18832 2.79976 1.53043C2.39396 1.87253 2.12216 2.34709 2.03241 2.87021C1.94265 3.39333 2.04072 3.93134 2.30928 4.38915C2.57784 4.84696 2.99959 5.19509 3.5 5.37201V6.25001C3.5 6.84674 3.73706 7.41904 4.15901 7.841C4.58097 8.26295 5.15327 8.50001 5.75 8.50001H7.25V10.628C6.74932 10.8049 6.3273 11.1532 6.05855 11.6112C5.78981 12.0692 5.69164 12.6075 5.78139 13.1309C5.87115 13.6543 6.14306 14.1291 6.54905 14.4714C6.95504 14.8136 7.46897 15.0014 8 15.0014C8.53104 15.0014 9.04497 14.8136 9.45096 14.4714C9.85695 14.1291 10.1289 13.6543 10.2186 13.1309C10.3084 12.6075 10.2102 12.0692 9.94146 11.6112C9.67271 11.1532 9.25069 10.8049 8.75 10.628V8.50001H10.25C10.8467 8.50001 11.419 8.26295 11.841 7.841C12.263 7.41904 12.5 6.84674 12.5 6.25001V5.37201C13.0004 5.19509 13.4222 4.84696 13.6907 4.38915C13.9593 3.93134 14.0574 3.39333 13.9676 2.87021C13.8778 2.34709 13.6061 1.87253 13.2002 1.53043C12.7944 1.18832 12.2808 1.00069 11.75 1.00069C11.2192 1.00069 10.7056 1.18832 10.2998 1.53043C9.89396 1.87253 9.62216 2.34709 9.53241 2.87021C9.44265 3.39333 9.54072 3.93134 9.80928 4.38915C10.0778 4.84696 10.4996 5.19509 11 5.37201V6.25001C11 6.44892 10.921 6.63969 10.7803 6.78034C10.6397 6.92099 10.4489 7.00001 10.25 7.00001H5.75C5.55109 7.00001 5.36033 6.92099 5.21967 6.78034C5.07902 6.63969 5 6.44892 5 6.25001V5.37201ZM8.75 12.75C8.75 12.9489 8.67099 13.1397 8.53033 13.2803C8.38968 13.421 8.19892 13.5 8 13.5C7.80109 13.5 7.61033 13.421 7.46967 13.2803C7.32902 13.1397 7.25 12.9489 7.25 12.75C7.25 12.5511 7.32902 12.3603 7.46967 12.2197C7.61033 12.079 7.80109 12 8 12C8.19892 12 8.38968 12.079 8.53033 12.2197C8.67099 12.3603 8.75 12.5511 8.75 12.75ZM11.75 4.00001C11.9489 4.00001 12.1397 3.92099 12.2803 3.78034C12.421 3.63969 12.5 3.44892 12.5 3.25001C12.5 3.05109 12.421 2.86033 12.2803 2.71968C12.1397 2.57902 11.9489 2.50001 11.75 2.50001C11.5511 2.50001 11.3603 2.57902 11.2197 2.71968C11.079 2.86033 11 3.05109 11 3.25001C11 3.44892 11.079 3.63969 11.2197 3.78034C11.3603 3.92099 11.5511 4.00001 11.75 4.00001Z"></path></svg>
               Fork
 </button></form>
-    <a href="/sandhikagalih/pw2020_043040023/network/members" class="social-count"
+    <a href="/sandhikagalih/pw2020_20072000/network/members" class="social-count"
        aria-label="9 users forked this repository">
       9
     </a>
@@ -877,14 +877,14 @@
      data-pjax="#js-repo-pjax-container">
   <ul class="list-style-none">
     <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /sandhikagalih/pw2020_043040023" href="/sandhikagalih/pw2020_043040023">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /sandhikagalih/pw2020_20072000" href="/sandhikagalih/pw2020_20072000">
         <div class="d-inline"><svg class="octicon octicon-code" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.71967 3.21967C5.01256 2.92678 5.48744 2.92678 5.78033 3.21967C6.07322 3.51256 6.07322 3.98744 5.78033 4.28033L2.06066 8L5.78033 11.7197C6.07322 12.0126 6.07322 12.4874 5.78033 12.7803C5.48744 13.0732 5.01256 13.0732 4.71967 12.7803L0.46967 8.53033C0.176777 8.23744 0.176777 7.76256 0.46967 7.46967L4.71967 3.21967ZM11.2803 3.21967C10.9874 2.92678 10.5126 2.92678 10.2197 3.21967C9.92678 3.51256 9.92678 3.98744 10.2197 4.28033L13.9393 8L10.2197 11.7197C9.92678 12.0126 9.92678 12.4874 10.2197 12.7803C10.5126 13.0732 10.9874 13.0732 11.2803 12.7803L15.5303 8.53033C15.8232 8.23744 15.8232 7.76256 15.5303 7.46967L11.2803 3.21967Z"></path></svg></div>
         <span itemprop="name">Code</span>
         <meta itemprop="position" content="1">
 </a>    </li>
 
       <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /sandhikagalih/pw2020_043040023/issues" href="/sandhikagalih/pw2020_043040023/issues">
+        <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /sandhikagalih/pw2020_20072000/issues" href="/sandhikagalih/pw2020_20072000/issues">
           <div class="d-inline"><svg class="octicon octicon-issue-opened" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 1.5C6.27609 1.5 4.62279 2.18482 3.40381 3.40381C2.18482 4.62279 1.5 6.27609 1.5 8C1.5 9.72391 2.18482 11.3772 3.40381 12.5962C4.62279 13.8152 6.27609 14.5 8 14.5C9.72391 14.5 11.3772 13.8152 12.5962 12.5962C13.8152 11.3772 14.5 9.72391 14.5 8C14.5 6.27609 13.8152 4.62279 12.5962 3.40381C11.3772 2.18482 9.72391 1.5 8 1.5ZM0 8C0 5.87827 0.842855 3.84344 2.34315 2.34315C3.84344 0.842855 5.87827 0 8 0C10.1217 0 12.1566 0.842855 13.6569 2.34315C15.1571 3.84344 16 5.87827 16 8C16 10.1217 15.1571 12.1566 13.6569 13.6569C12.1566 15.1571 10.1217 16 8 16C5.87827 16 3.84344 15.1571 2.34315 13.6569C0.842855 12.1566 0 10.1217 0 8ZM9 11C9 11.2652 8.89464 11.5196 8.70711 11.7071C8.51957 11.8946 8.26522 12 8 12C7.73478 12 7.48043 11.8946 7.29289 11.7071C7.10536 11.5196 7 11.2652 7 11C7 10.7348 7.10536 10.4804 7.29289 10.2929C7.48043 10.1054 7.73478 10 8 10C8.26522 10 8.51957 10.1054 8.70711 10.2929C8.89464 10.4804 9 10.7348 9 11ZM8.75 4.75C8.75 4.55109 8.67098 4.36032 8.53033 4.21967C8.38968 4.07902 8.19891 4 8 4C7.80109 4 7.61032 4.07902 7.46967 4.21967C7.32902 4.36032 7.25 4.55109 7.25 4.75V8.25C7.25 8.44891 7.32902 8.63968 7.46967 8.78033C7.61032 8.92098 7.80109 9 8 9C8.19891 9 8.38968 8.92098 8.53033 8.78033C8.67098 8.63968 8.75 8.44891 8.75 8.25V4.75Z"></path></svg></div>
           <span itemprop="name">Issues</span>
           <span class="Counter">0</span>
@@ -892,7 +892,7 @@
 </a>      </li>
 
     <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /sandhikagalih/pw2020_043040023/pulls" href="/sandhikagalih/pw2020_043040023/pulls">
+      <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /sandhikagalih/pw2020_20072000/pulls" href="/sandhikagalih/pw2020_20072000/pulls">
         <div class="d-inline"><svg class="octicon octicon-git-pull-request" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.17674 3.07322L9.57318 0.676753C9.73068 0.51926 9.99996 0.630802 9.99996 0.853529V5.64642C9.99996 5.86915 9.73068 5.98069 9.57319 5.8232L7.17674 3.42677C7.07911 3.32914 7.07911 3.17085 7.17674 3.07322ZM3.75 2.5C3.33579 2.5 3 2.83579 3 3.25C3 3.66421 3.33579 4 3.75 4C4.16421 4 4.5 3.66421 4.5 3.25C4.5 2.83579 4.16421 2.5 3.75 2.5ZM1.5 3.25C1.5 2.00736 2.50736 1 3.75 1C4.99264 1 6 2.00736 6 3.25C6 4.22966 5.37389 5.06309 4.5 5.37197V10.628C5.37389 10.9369 6 11.7703 6 12.75C6 13.9926 4.99264 15 3.75 15C2.50736 15 1.5 13.9926 1.5 12.75C1.5 11.7703 2.12611 10.9369 3 10.628V5.37197C2.12611 5.06309 1.5 4.22966 1.5 3.25ZM11 2.5H10V4H11C11.5523 4 12 4.44772 12 5V10.628C11.1261 10.9369 10.5 11.7703 10.5 12.75C10.5 13.9926 11.5074 15 12.75 15C13.9926 15 15 13.9926 15 12.75C15 11.7703 14.3739 10.9369 13.5 10.628V5C13.5 3.61929 12.3807 2.5 11 2.5ZM12 12.75C12 12.3358 12.3358 12 12.75 12C13.1642 12 13.5 12.3358 13.5 12.75C13.5 13.1642 13.1642 13.5 12.75 13.5C12.3358 13.5 12 13.1642 12 12.75ZM3.75 12C3.33579 12 3 12.3358 3 12.75C3 13.1642 3.33579 13.5 3.75 13.5C4.16421 13.5 4.5 13.1642 4.5 12.75C4.5 12.3358 4.16421 12 3.75 12Z"></path></svg></div>
         <span itemprop="name">Pull requests</span>
         <span class="Counter">0</span>
@@ -901,34 +901,34 @@
 
 
       <li itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement" class="position-relative float-left ">
-        <a data-hotkey="g w" data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /sandhikagalih/pw2020_043040023/actions" href="/sandhikagalih/pw2020_043040023/actions">
+        <a data-hotkey="g w" data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /sandhikagalih/pw2020_20072000/actions" href="/sandhikagalih/pw2020_20072000/actions">
           <div class="d-inline"><svg class="octicon octicon-play" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8ZM8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0ZM6.37862 5.22717C6.21199 5.1272 6 5.24722 6 5.44155V10.5585C6 10.7528 6.21199 10.8728 6.37862 10.7728L10.6427 8.21437C10.8045 8.11727 10.8045 7.88273 10.6427 7.78563L6.37862 5.22717Z"></path></svg></div>
           Actions
 </a>
       </li>
 
       <li >
-        <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /sandhikagalih/pw2020_043040023/projects" href="/sandhikagalih/pw2020_043040023/projects">
+        <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /sandhikagalih/pw2020_20072000/projects" href="/sandhikagalih/pw2020_20072000/projects">
           <div class="d-inline"><svg class="octicon octicon-project" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.75 0C0.783502 0 0 0.783501 0 1.75V14.25C0 15.2165 0.783501 16 1.75 16H14.25C15.2165 16 16 15.2165 16 14.25V1.75C16 0.783502 15.2165 0 14.25 0H1.75ZM1.5 1.75C1.5 1.61193 1.61193 1.5 1.75 1.5H14.25C14.3881 1.5 14.5 1.61193 14.5 1.75V14.25C14.5 14.3881 14.3881 14.5 14.25 14.5H1.75C1.61193 14.5 1.5 14.3881 1.5 14.25V1.75ZM11.75 3C11.3358 3 11 3.33579 11 3.75V11.25C11 11.6642 11.3358 12 11.75 12C12.1642 12 12.5 11.6642 12.5 11.25V3.75C12.5 3.33579 12.1642 3 11.75 3ZM3.5 3.75C3.5 3.33579 3.83579 3 4.25 3C4.66421 3 5 3.33579 5 3.75V9.25C5 9.66421 4.66421 10 4.25 10C3.83579 10 3.5 9.66421 3.5 9.25V3.75ZM8 3C7.58579 3 7.25 3.33579 7.25 3.75V7.25C7.25 7.66421 7.58579 8 8 8C8.41421 8 8.75 7.66421 8.75 7.25V3.75C8.75 3.33579 8.41421 3 8 3Z"></path></svg></div>
           Projects
           <span class="Counter">0</span>
 </a>      </li>
 
       <li >
-        <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /sandhikagalih/pw2020_043040023/wiki" href="/sandhikagalih/pw2020_043040023/wiki">
+        <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /sandhikagalih/pw2020_20072000/wiki" href="/sandhikagalih/pw2020_20072000/wiki">
           <div class="d-inline"><svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 1.75C0 1.33579 0.335786 1 0.75 1H5.00286C6.23012 1 7.31979 1.58958 8.00393 2.50106C8.68803 1.58962 9.77766 1 11.005 1H15.25C15.6642 1 16 1.33579 16 1.75V12.25C16 12.6642 15.6642 13 15.25 13H10.7426C10.1459 13 9.57361 13.2371 9.15165 13.659L8.53033 14.2803C8.23744 14.5732 7.76256 14.5732 7.46967 14.2803L6.84835 13.659C6.42639 13.2371 5.8541 13 5.25736 13H0.75C0.335786 13 0 12.6642 0 12.25V1.75ZM8.755 4.75C8.755 3.50736 9.76236 2.5 11.005 2.5H14.5V11.5H10.7426C10.0326 11.5 9.34339 11.7014 8.75124 12.0724L8.755 4.75ZM7.25124 12.074L7.255 7.00071L7.25285 4.74786C7.25167 3.50605 6.24466 2.5 5.00286 2.5H1.5V11.5H5.25736C5.96836 11.5 6.65854 11.7019 7.25124 12.074Z"></path></svg></div>
           Wiki
 </a>      </li>
 
       <li >
-        <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /sandhikagalih/pw2020_043040023/security" href="/sandhikagalih/pw2020_043040023/security">
+        <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /sandhikagalih/pw2020_20072000/security" href="/sandhikagalih/pw2020_20072000/security">
           <div class="d-inline"><svg class="octicon octicon-shield" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.46664 0.133062C7.81355 0.0220518 8.18645 0.0220524 8.53336 0.133063L13.7834 1.81306C14.5082 2.045 15 2.71878 15 3.4798V6.99985C15 8.5659 14.6808 10.1823 13.6968 11.682C12.7137 13.1805 11.1116 14.4946 8.66493 15.5367C8.24091 15.7173 7.75909 15.7173 7.33508 15.5367C4.88836 14.4946 3.28631 13.1805 2.3032 11.682C1.31923 10.1823 1 8.5659 1 6.99985V3.4798C1 2.71878 1.49183 2.045 2.21664 1.81306L7.46664 0.133062ZM8.07619 1.5617C8.02664 1.54584 7.97336 1.54584 7.92381 1.5617L2.67381 3.2417C2.57026 3.27483 2.5 3.37109 2.5 3.4798V6.99985C2.5 8.35818 2.77465 9.66618 3.55737 10.8592C4.34094 12.0535 5.67838 13.2007 7.92287 14.1567C7.97134 14.1773 8.02866 14.1773 8.07713 14.1567C10.3216 13.2007 11.6591 12.0535 12.4426 10.8592C13.2253 9.66618 13.5 8.35818 13.5 6.99985V3.4798C13.5 3.37109 13.4297 3.27483 13.3262 3.2417L8.07619 1.5617ZM9 10.4999C9 11.0522 8.55228 11.4999 8 11.4999C7.44772 11.4999 7 11.0522 7 10.4999C7 9.94759 7.44772 9.49988 8 9.49988C8.55228 9.49988 9 9.94759 9 10.4999ZM8.75 4.74988C8.75 4.33566 8.41421 3.99988 8 3.99988C7.58579 3.99988 7.25 4.33566 7.25 4.74988V7.74988C7.25 8.16409 7.58579 8.49988 8 8.49988C8.41421 8.49988 8.75 8.16409 8.75 7.74988V4.74988Z"></path></svg></div>
           Security
-              <span class="Counter js-security-tab-count" data-url="/sandhikagalih/pw2020_043040023/security/overall-count" hidden></span>
+              <span class="Counter js-security-tab-count" data-url="/sandhikagalih/pw2020_20072000/security/overall-count" hidden></span>
 </a>      </li>
 
       <li >
-        <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /sandhikagalih/pw2020_043040023/pulse" href="/sandhikagalih/pw2020_043040023/pulse">
+        <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /sandhikagalih/pw2020_20072000/pulse" href="/sandhikagalih/pw2020_20072000/pulse">
           <div class="d-inline"><svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.5 1.75C1.5 1.33579 1.16421 1 0.75 1C0.335786 1 0 1.33579 0 1.75V14.25C0 14.6642 0.335786 15 0.75 15H15.25C15.6642 15 16 14.6642 16 14.25C16 13.8358 15.6642 13.5 15.25 13.5H1.5V1.75ZM15.7803 4.28033C16.0732 3.98744 16.0732 3.51256 15.7803 3.21967C15.4874 2.92678 15.0126 2.92678 14.7197 3.21967L10 7.93934L7.53033 5.46967C7.23744 5.17678 6.76256 5.17678 6.46967 5.46967L3.21967 8.71967C2.92678 9.01256 2.92678 9.48744 3.21967 9.78033C3.51256 10.0732 3.98744 10.0732 4.28033 9.78033L7 7.06066L9.46967 9.53033C9.61032 9.67098 9.80109 9.75 10 9.75C10.1989 9.75 10.3897 9.67098 10.5303 9.53033L15.7803 4.28033Z"></path></svg></div>
           Insights
 </a>      </li>
@@ -943,20 +943,20 @@
        itemtype="http://schema.org/BreadcrumbList">
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /sandhikagalih/pw2020_043040023" href="/sandhikagalih/pw2020_043040023">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /sandhikagalih/pw2020_20072000" href="/sandhikagalih/pw2020_20072000">
         <span itemprop="name">Code</span>
         <meta itemprop="position" content="1">
 </a>    </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /sandhikagalih/pw2020_043040023/issues" href="/sandhikagalih/pw2020_043040023/issues">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /sandhikagalih/pw2020_20072000/issues" href="/sandhikagalih/pw2020_20072000/issues">
           <span itemprop="name">Issues</span>
           <span class="Counter">0</span>
           <meta itemprop="position" content="2">
 </a>      </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /sandhikagalih/pw2020_043040023/pulls" href="/sandhikagalih/pw2020_043040023/pulls">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /sandhikagalih/pw2020_20072000/pulls" href="/sandhikagalih/pw2020_20072000/pulls">
         <span itemprop="name">Pull requests</span>
         <span class="Counter">0</span>
         <meta itemprop="position" content="4">
@@ -964,34 +964,34 @@
 
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /sandhikagalih/pw2020_043040023/projects" href="/sandhikagalih/pw2020_043040023/projects">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /sandhikagalih/pw2020_20072000/projects" href="/sandhikagalih/pw2020_20072000/projects">
           <span itemprop="name">Projects</span>
           <span class="Counter">0</span>
           <meta itemprop="position" content="5">
 </a>      </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /sandhikagalih/pw2020_043040023/actions" href="/sandhikagalih/pw2020_043040023/actions">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /sandhikagalih/pw2020_20072000/actions" href="/sandhikagalih/pw2020_20072000/actions">
           <span itemprop="name">Actions</span>
           <meta itemprop="position" content="6">
 </a>      </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /sandhikagalih/pw2020_043040023/wiki" href="/sandhikagalih/pw2020_043040023/wiki">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /sandhikagalih/pw2020_20072000/wiki" href="/sandhikagalih/pw2020_20072000/wiki">
           <span itemprop="name">Wiki</span>
           <meta itemprop="position" content="7">
 </a>      </span>
 
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /sandhikagalih/pw2020_043040023/security" href="/sandhikagalih/pw2020_043040023/security">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /sandhikagalih/pw2020_20072000/security" href="/sandhikagalih/pw2020_20072000/security">
         <span itemprop="name">Security</span>
             <span class="Counter js-security-deferred-tab-count" hidden></span>
         <meta itemprop="position" content="8">
 </a>
-      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /sandhikagalih/pw2020_043040023/pulse" href="/sandhikagalih/pw2020_043040023/pulse">
+      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /sandhikagalih/pw2020_20072000/pulse" href="/sandhikagalih/pw2020_20072000/pulse">
         Pulse
 </a>
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="community /sandhikagalih/pw2020_043040023/community" href="/sandhikagalih/pw2020_043040023/community">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="community /sandhikagalih/pw2020_20072000/community" href="/sandhikagalih/pw2020_20072000/community">
           Community
 </a>      </span>
 
@@ -1015,9 +1015,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sandhikagalih/pw2020_043040023/blob/49c143d01667d8ae1cf15ffcba4a123eefcacde8/kuliah/pertemuan9/tubes_043040023.sql">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sandhikagalih/pw2020_20072000/blob/49c143d01667d8ae1cf15ffcba4a123eefcacde8/kuliah/pertemuan9/pw_20072000.sql">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:36be3c546bef9216c8dd74ab10597c08 -->
+    <!-- blob contrib key: blob_contributors:v22:5132293d2fa3842ade517f6f06b37b68 -->
     
 
     <div class="d-flex flex-items-start flex-shrink-0 flex-column flex-md-row pb-3">
@@ -1032,7 +1032,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/sandhikagalih/pw2020_043040023/refs/master/kuliah/pertemuan9/tubes_043040023.sql?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/sandhikagalih/pw2020_20072000/refs/master/kuliah/pertemuan9/pw_20072000.sql?source_action=show&amp;source_controller=blob" preload>
     <div class="SelectMenu-modal">
       <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
         <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"></path></svg>
@@ -1042,29 +1042,29 @@
 </details>
 
         <div class="BtnGroup flex-shrink-0 d-md-none">
-          <a href="/sandhikagalih/pw2020_043040023/find/master"
+          <a href="/sandhikagalih/pw2020_20072000/find/master"
                 class="js-pjax-capture-input btn btn-sm BtnGroup-item"
                 data-pjax
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="kuliah/pertemuan9/tubes_043040023.sql" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="kuliah/pertemuan9/pw_20072000.sql" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/sandhikagalih/pw2020_043040023"><span>pw2020_043040023</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/sandhikagalih/pw2020_043040023/tree/master/kuliah"><span>kuliah</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/sandhikagalih/pw2020_043040023/tree/master/kuliah/pertemuan9"><span>pertemuan9</span></a></span><span class="separator">/</span><strong class="final-path">tubes_043040023.sql</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/sandhikagalih/pw2020_20072000"><span>pw2020_20072000</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/sandhikagalih/pw2020_20072000/tree/master/kuliah"><span>kuliah</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/sandhikagalih/pw2020_20072000/tree/master/kuliah/pertemuan9"><span>pertemuan9</span></a></span><span class="separator">/</span><strong class="final-path">pw_20072000.sql</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
-        <a href="/sandhikagalih/pw2020_043040023/find/master"
+        <a href="/sandhikagalih/pw2020_20072000/find/master"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="kuliah/pertemuan9/tubes_043040023.sql" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="kuliah/pertemuan9/pw_20072000.sql" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -1072,16 +1072,45 @@
 
 
 
-    <include-fragment src="/sandhikagalih/pw2020_043040023/contributors/master/kuliah/pertemuan9/tubes_043040023.sql" class="Box Box--condensed commit-loader">
-      <div class="Box-body bg-blue-light f6">
-        Fetching contributors&hellip;
+    
+  <div class="Box Box--condensed d-flex flex-column flex-shrink-0 mb-3">
+      <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
+        <span class="pr-md-4 f6">
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/sandhikagalih/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sandhikagalih"><img class="avatar avatar-user" src="https://avatars3.githubusercontent.com/u/2681894?s=40&amp;v=4" width="20" height="20" alt="@sandhikagalih" /></a>
+          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="author" data-hovercard-type="user" data-hovercard-url="/users/sandhikagalih/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sandhikagalih">sandhikagalih</a>
+            <span class="lh-default v-align-middle">
+              <a data-pjax="true" title="menambahkan database" class="link-gray" href="/sandhikagalih/pw2020_20072000/commit/fd8df3b017fabfb48dc042c49a4855488cf98404">menambahkan database</a>
+            </span>
+        </span>
+        <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
+          <a class="pr-2 text-mono link-gray" href="/sandhikagalih/pw2020_20072000/commit/fd8df3b017fabfb48dc042c49a4855488cf98404" data-pjax>fd8df3b</a>
+          <relative-time datetime="2020-04-09T08:06:41Z" class="no-wrap">Apr 9, 2020</relative-time>
+        </span>
       </div>
 
-      <div class="Box-body d-flex flex-items-center" >
-        <img alt="" class="loader-loading mr-2" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
-        <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
-      </div>
-</include-fragment>
+    <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
+      <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
+        <summary class="btn-link">
+          <span><strong>1</strong> contributor</span>
+        </summary>
+        <details-dialog
+          class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+          aria-label="Users who have contributed to this file"
+          src="/sandhikagalih/pw2020_20072000/contributors-list/master/kuliah/pertemuan9/pw_20072000.sql" preload>
+          <div class="Box-header">
+            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+              <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M3.72 3.72C3.86062 3.57955 4.05125 3.50066 4.25 3.50066C4.44875 3.50066 4.63937 3.57955 4.78 3.72L8 6.94L11.22 3.72C11.2887 3.64631 11.3715 3.58721 11.4635 3.54622C11.5555 3.50523 11.6548 3.48319 11.7555 3.48141C11.8562 3.47963 11.9562 3.49816 12.0496 3.53588C12.143 3.5736 12.2278 3.62974 12.299 3.70096C12.3703 3.77218 12.4264 3.85702 12.4641 3.9504C12.5018 4.04379 12.5204 4.14382 12.5186 4.24452C12.5168 4.34523 12.4948 4.44454 12.4538 4.53654C12.4128 4.62854 12.3537 4.71134 12.28 4.78L9.06 8L12.28 11.22C12.3537 11.2887 12.4128 11.3715 12.4538 11.4635C12.4948 11.5555 12.5168 11.6548 12.5186 11.7555C12.5204 11.8562 12.5018 11.9562 12.4641 12.0496C12.4264 12.143 12.3703 12.2278 12.299 12.299C12.2278 12.3703 12.143 12.4264 12.0496 12.4641C11.9562 12.5018 11.8562 12.5204 11.7555 12.5186C11.6548 12.5168 11.5555 12.4948 11.4635 12.4538C11.3715 12.4128 11.2887 12.3537 11.22 12.28L8 9.06L4.78 12.28C4.63782 12.4125 4.44977 12.4846 4.25547 12.4812C4.06117 12.4777 3.87579 12.399 3.73837 12.2616C3.60096 12.1242 3.52225 11.9388 3.51882 11.7445C3.51539 11.5502 3.58752 11.3622 3.72 11.22L6.94 8L3.72 4.78C3.57955 4.63938 3.50066 4.44875 3.50066 4.25C3.50066 4.05125 3.57955 3.86063 3.72 3.72Z"></path></svg>
+            </button>
+            <h3 class="Box-title">
+              Users who have contributed to this file
+            </h3>
+          </div>
+          <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
+        </details-dialog>
+      </details>
+    </div>
+  </div>
+
 
 
 
@@ -1095,15 +1124,15 @@
 
       69 lines (55 sloc)
       <span class="file-info-divider"></span>
-    1.7 KB
+    1.74 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/sandhikagalih/pw2020_043040023/raw/master/kuliah/pertemuan9/tubes_043040023.sql">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/sandhikagalih/pw2020_043040023/blame/master/kuliah/pertemuan9/tubes_043040023.sql">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/sandhikagalih/pw2020_043040023/commits/master/kuliah/pertemuan9/tubes_043040023.sql">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/sandhikagalih/pw2020_20072000/raw/master/kuliah/pertemuan9/pw_20072000.sql">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/sandhikagalih/pw2020_20072000/blame/master/kuliah/pertemuan9/pw_20072000.sql">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/sandhikagalih/pw2020_20072000/commits/master/kuliah/pertemuan9/pw_20072000.sql">History</a>
     </div>
 
 
@@ -1116,13 +1145,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.75 2.5H14.25C14.3881 2.5 14.5 2.61193 14.5 2.75V10.25C14.5 10.3881 14.3881 10.5 14.25 10.5H1.75C1.61193 10.5 1.5 10.3881 1.5 10.25V2.75C1.5 2.61193 1.61193 2.5 1.75 2.5ZM14.25 1H1.75C0.783502 1 0 1.7835 0 2.75V10.25C0 11.2165 0.783502 12 1.75 12H5.47703C5.37794 13.041 4.95684 13.8724 4.18494 14.7568C3.99156 14.9784 3.94553 15.2926 4.06724 15.5604C4.18894 15.8281 4.4559 16 4.75001 16H11.25C11.5441 16 11.8111 15.8281 11.9328 15.5604C12.0545 15.2926 12.0085 14.9784 11.8151 14.7568C11.0432 13.8724 10.6221 13.041 10.523 12H14.25C15.2165 12 16 11.2165 16 10.25V2.75C16 1.7835 15.2165 1 14.25 1ZM9.01784 12H6.98218C6.91392 12.9377 6.651 13.7473 6.21733 14.5H9.78269C9.34903 13.7473 9.08611 12.9377 9.01784 12Z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/sandhikagalih/pw2020_043040023/edit/master/kuliah/pertemuan9/tubes_043040023.sql" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OztX0oKPzIIy4vyLB3gQaEZWy1OqqBme7qd9oUPZenaIoKrMAgpJkLKQ43SWuc0MIjrrMv+yNT/rqd29pTKIOg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/sandhikagalih/pw2020_20072000/edit/master/kuliah/pertemuan9/pw_20072000.sql" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5jVWv21OOA3qsMNck4KcQL/4dVqaMF+vEqyPrhzDgTmeRszkTUn4qw/nRlsERmcS9aHbmelUzwbrn22I1M3Diw==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M11.0126 1.42678C11.696 0.74336 12.804 0.743362 13.4874 1.42678L14.5732 2.51257C15.2566 3.19598 15.2566 4.30402 14.5732 4.98744L5.96355 13.5971C5.75325 13.8074 5.49283 13.9606 5.20687 14.0423L1.95603 14.9711C1.69413 15.046 1.41226 14.9729 1.21966 14.7803C1.02706 14.5877 0.954017 14.3059 1.02884 14.044L1.95766 10.7931C2.03936 10.5072 2.19259 10.2467 2.40289 10.0364L11.0126 1.42678ZM12.4268 2.48744C12.3291 2.38981 12.1708 2.38981 12.0732 2.48744L10.8106 3.75L12.25 5.18934L13.5126 3.92678C13.6102 3.82915 13.6102 3.67086 13.5126 3.57323L12.4268 2.48744ZM11.1893 6.25L9.74999 4.81066L3.46355 11.0971C3.43351 11.1271 3.41162 11.1643 3.39994 11.2052L2.842 13.158L4.79479 12.6C4.83564 12.5884 4.87284 12.5665 4.90289 12.5364L11.1893 6.25Z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/sandhikagalih/pw2020_043040023/delete/master/kuliah/pertemuan9/tubes_043040023.sql" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zpbCFPXc9hKw1ycPJ4hfNsJTJcL15I9G8BbxfR/yGKD217Z3ery5heZjLzK5FamvOlhxuhZQ3Tf+UjtJ2qDpmA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/sandhikagalih/pw2020_20072000/delete/master/kuliah/pertemuan9/pw_20072000.sql" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KfH5tlYrTgYngA3OqWK59IHbNWi92neC1a3SHfeKNoNV5aLTDsn/vma4uqQldJz1i61Nu9oUO1w66+tEB/MgeA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 1.75C6.5 1.61193 6.61193 1.5 6.75 1.5H9.25C9.38807 1.5 9.5 1.61193 9.5 1.75V3H6.5V1.75ZM11 1.75V3H13.25C13.6642 3 14 3.33579 14 3.75C14 4.16421 13.6642 4.5 13.25 4.5H2.75C2.33579 4.5 2 4.16421 2 3.75C2 3.33579 2.33579 3 2.75 3H5V1.75C5 0.783502 5.7835 0 6.75 0H9.25C10.2165 0 11 0.783502 11 1.75ZM4.49627 6.67537C4.45506 6.26321 4.08753 5.9625 3.67537 6.00372C3.26321 6.04493 2.9625 6.41247 3.00372 6.82462L3.66367 13.4241C3.75313 14.3187 4.50592 15 5.40498 15H10.595C11.4941 15 12.2469 14.3187 12.3363 13.4241L12.9963 6.82462C13.0375 6.41247 12.7368 6.04493 12.3246 6.00372C11.9125 5.9625 11.5449 6.26321 11.5037 6.67537L10.8438 13.2749C10.831 13.4027 10.7234 13.5 10.595 13.5H5.40498C5.27655 13.5 5.169 13.4027 5.15622 13.2749L4.49627 6.67537Z"></path></svg>
@@ -1160,7 +1189,7 @@
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Generation Time: Apr 09, 2020 at 03:04 PM</span></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Generation Time: Apr 09, 2020 at 03:05 PM</span></td>
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
@@ -1220,7 +1249,7 @@
       </tr>
       <tr>
         <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Database: `tubes_043040023`</span></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Database: `pw_20072000`</span></td>
       </tr>
       <tr>
         <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
@@ -1246,7 +1275,7 @@
       </tr>
       <tr>
         <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Table structure for table `film`</span></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Table structure for table `mahasiswa`</span></td>
       </tr>
       <tr>
         <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
@@ -1259,7 +1288,7 @@
       </tr>
       <tr>
         <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-k">CREATE</span> <span class="pl-k">TABLE</span> <span class="pl-s"><span class="pl-pds">`</span>film<span class="pl-pds">`</span></span> (</td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-k">CREATE</span> <span class="pl-k">TABLE</span> <span class="pl-s"><span class="pl-pds">`</span>mahasiswa<span class="pl-pds">`</span></span> (</td>
       </tr>
       <tr>
         <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
@@ -1267,65 +1296,65 @@
       </tr>
       <tr>
         <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code blob-code-inner js-file-line">  <span class="pl-s"><span class="pl-pds">`</span>judul<span class="pl-pds">`</span></span> <span class="pl-k">varchar</span>(<span class="pl-c1">255</span>) <span class="pl-k">NOT</span> <span class="pl-k">NULL</span>,</td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">  <span class="pl-s"><span class="pl-pds">`</span>nama<span class="pl-pds">`</span></span> <span class="pl-k">varchar</span>(<span class="pl-c1">255</span>) <span class="pl-k">NOT</span> <span class="pl-k">NULL</span>,</td>
       </tr>
       <tr>
         <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line">  <span class="pl-s"><span class="pl-pds">`</span>tahun<span class="pl-pds">`</span></span> <span class="pl-k">char</span>(<span class="pl-c1">4</span>) <span class="pl-k">NOT</span> <span class="pl-k">NULL</span>,</td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">  <span class="pl-s"><span class="pl-pds">`</span>nrp<span class="pl-pds">`</span></span> <span class="pl-k">char</span>(<span class="pl-c1">9</span>) <span class="pl-k">NOT</span> <span class="pl-k">NULL</span>,</td>
       </tr>
       <tr>
         <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line">  <span class="pl-s"><span class="pl-pds">`</span>genre<span class="pl-pds">`</span></span> <span class="pl-k">varchar</span>(<span class="pl-c1">255</span>) <span class="pl-k">NOT</span> <span class="pl-k">NULL</span>,</td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">  <span class="pl-s"><span class="pl-pds">`</span>email<span class="pl-pds">`</span></span> <span class="pl-k">varchar</span>(<span class="pl-c1">255</span>) <span class="pl-k">NOT</span> <span class="pl-k">NULL</span>,</td>
       </tr>
       <tr>
         <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line">  <span class="pl-s"><span class="pl-pds">`</span>sutradara<span class="pl-pds">`</span></span> <span class="pl-k">varchar</span>(<span class="pl-c1">255</span>) <span class="pl-k">NOT</span> <span class="pl-k">NULL</span>,</td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">  <span class="pl-s"><span class="pl-pds">`</span>jurusan<span class="pl-pds">`</span></span> <span class="pl-k">varchar</span>(<span class="pl-c1">255</span>) <span class="pl-k">NOT</span> <span class="pl-k">NULL</span>,</td>
       </tr>
       <tr>
         <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line">  <span class="pl-s"><span class="pl-pds">`</span>aktor<span class="pl-pds">`</span></span> <span class="pl-k">varchar</span>(<span class="pl-c1">255</span>) <span class="pl-k">NOT</span> <span class="pl-k">NULL</span>,</td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">  <span class="pl-s"><span class="pl-pds">`</span>gambar<span class="pl-pds">`</span></span> <span class="pl-k">varchar</span>(<span class="pl-c1">255</span>) <span class="pl-k">NOT</span> <span class="pl-k">NULL</span></td>
       </tr>
       <tr>
         <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line">  <span class="pl-s"><span class="pl-pds">`</span>poster<span class="pl-pds">`</span></span> <span class="pl-k">varchar</span>(<span class="pl-c1">255</span>) <span class="pl-k">NOT</span> <span class="pl-k">NULL</span></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">) ENGINE<span class="pl-k">=</span>InnoDB DEFAULT CHARSET<span class="pl-k">=</span>utf8;</td>
       </tr>
       <tr>
         <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code blob-code-inner js-file-line">) ENGINE<span class="pl-k">=</span>InnoDB DEFAULT CHARSET<span class="pl-k">=</span>utf8;</td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span></span></td>
       </tr>
       <tr>
         <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span></span></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Dumping data for table `mahasiswa`</span></td>
       </tr>
       <tr>
         <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Dumping data for table `film`</span></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span></span></td>
       </tr>
       <tr>
         <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span></span></td>
-      </tr>
-      <tr>
-        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line">
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">
 </td>
       </tr>
       <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class="pl-k">INSERT</span> <span class="pl-k">INTO</span> <span class="pl-s"><span class="pl-pds">`</span>mahasiswa<span class="pl-pds">`</span></span> (<span class="pl-s"><span class="pl-pds">`</span>id<span class="pl-pds">`</span></span>, <span class="pl-s"><span class="pl-pds">`</span>nama<span class="pl-pds">`</span></span>, <span class="pl-s"><span class="pl-pds">`</span>nrp<span class="pl-pds">`</span></span>, <span class="pl-s"><span class="pl-pds">`</span>email<span class="pl-pds">`</span></span>, <span class="pl-s"><span class="pl-pds">`</span>jurusan<span class="pl-pds">`</span></span>, <span class="pl-s"><span class="pl-pds">`</span>gambar<span class="pl-pds">`</span></span>) <span class="pl-k">VALUES</span></td>
+      </tr>
+      <tr>
         <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class="pl-k">INSERT</span> <span class="pl-k">INTO</span> <span class="pl-s"><span class="pl-pds">`</span>film<span class="pl-pds">`</span></span> (<span class="pl-s"><span class="pl-pds">`</span>id<span class="pl-pds">`</span></span>, <span class="pl-s"><span class="pl-pds">`</span>judul<span class="pl-pds">`</span></span>, <span class="pl-s"><span class="pl-pds">`</span>tahun<span class="pl-pds">`</span></span>, <span class="pl-s"><span class="pl-pds">`</span>genre<span class="pl-pds">`</span></span>, <span class="pl-s"><span class="pl-pds">`</span>sutradara<span class="pl-pds">`</span></span>, <span class="pl-s"><span class="pl-pds">`</span>aktor<span class="pl-pds">`</span></span>, <span class="pl-s"><span class="pl-pds">`</span>poster<span class="pl-pds">`</span></span>) <span class="pl-k">VALUES</span></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">(<span class="pl-c1">1</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Sandhika Galih&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>20072000&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>sandhikagalih@unpas.ac.id&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Teknik Informatika&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>sandhika.jpg&#39;</span>),</td>
       </tr>
       <tr>
         <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="LC44" class="blob-code blob-code-inner js-file-line">(<span class="pl-c1">1</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Harry Potter&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>2011&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Adventure&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>David Yates&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Daniel Radcliffe&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>harrypotter1.jpg&#39;</span>),</td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">(<span class="pl-c1">2</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Doddy Ferdiansyah&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>153040123&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>doddy@gmail.com&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Teknik Mesin&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>doddy.jpg&#39;</span>),</td>
       </tr>
       <tr>
         <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td id="LC45" class="blob-code blob-code-inner js-file-line">(<span class="pl-c1">2</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Avengers: Infinity War&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>2018&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Action&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Anthony Russo, Joe Russo&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Robert Downey Jr.&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>infinitywar.jpg&#39;</span>);</td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">(<span class="pl-c1">3</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Erik&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>023040321&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>erik@yahoo.com&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>Teknik Industri&#39;</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>erik.jpg&#39;</span>);</td>
       </tr>
       <tr>
         <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
@@ -1355,7 +1384,7 @@
       </tr>
       <tr>
         <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Indexes for table `film`</span></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Indexes for table `mahasiswa`</span></td>
       </tr>
       <tr>
         <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
@@ -1363,7 +1392,7 @@
       </tr>
       <tr>
         <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
-        <td id="LC54" class="blob-code blob-code-inner js-file-line"><span class="pl-k">ALTER</span> <span class="pl-k">TABLE</span> <span class="pl-s"><span class="pl-pds">`</span>film<span class="pl-pds">`</span></span></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line"><span class="pl-k">ALTER</span> <span class="pl-k">TABLE</span> <span class="pl-s"><span class="pl-pds">`</span>mahasiswa<span class="pl-pds">`</span></span></td>
       </tr>
       <tr>
         <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
@@ -1397,7 +1426,7 @@
       </tr>
       <tr>
         <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
-        <td id="LC62" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> AUTO_INCREMENT for table `film`</span></td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> AUTO_INCREMENT for table `mahasiswa`</span></td>
       </tr>
       <tr>
         <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
@@ -1405,11 +1434,11 @@
       </tr>
       <tr>
         <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
-        <td id="LC64" class="blob-code blob-code-inner js-file-line"><span class="pl-k">ALTER</span> <span class="pl-k">TABLE</span> <span class="pl-s"><span class="pl-pds">`</span>film<span class="pl-pds">`</span></span></td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line"><span class="pl-k">ALTER</span> <span class="pl-k">TABLE</span> <span class="pl-s"><span class="pl-pds">`</span>mahasiswa<span class="pl-pds">`</span></span></td>
       </tr>
       <tr>
         <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
-        <td id="LC65" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">MODIFY</span> <span class="pl-s"><span class="pl-pds">`</span>id<span class="pl-pds">`</span></span> <span class="pl-k">int</span>(<span class="pl-c1">11</span>) <span class="pl-k">NOT</span> <span class="pl-k">NULL</span> AUTO_INCREMENT, AUTO_INCREMENT<span class="pl-k">=</span><span class="pl-c1">3</span>;</td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">MODIFY</span> <span class="pl-s"><span class="pl-pds">`</span>id<span class="pl-pds">`</span></span> <span class="pl-k">int</span>(<span class="pl-c1">11</span>) <span class="pl-k">NOT</span> <span class="pl-k">NULL</span> AUTO_INCREMENT, AUTO_INCREMENT<span class="pl-k">=</span><span class="pl-c1">4</span>;</td>
       </tr>
       <tr>
         <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
@@ -1448,8 +1477,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/sandhikagalih/pw2020_043040023/blame/49c143d01667d8ae1cf15ffcba4a123eefcacde8/kuliah/pertemuan9/tubes_043040023.sql">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/sandhikagalih/pw2020_043040023/issues/new">Reference in new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/sandhikagalih/pw2020_20072000/blame/49c143d01667d8ae1cf15ffcba4a123eefcacde8/kuliah/pertemuan9/pw_20072000.sql">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/sandhikagalih/pw2020_20072000/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
